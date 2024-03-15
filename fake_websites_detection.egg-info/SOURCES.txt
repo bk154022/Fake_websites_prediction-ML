@@ -1,0 +1,8 @@
+README.md
+setup.py
+fake_websites_detection.egg-info/PKG-INFO
+fake_websites_detection.egg-info/SOURCES.txt
+fake_websites_detection.egg-info/dependency_links.txt
+fake_websites_detection.egg-info/requires.txt
+fake_websites_detection.egg-info/top_level.txt
+src/__init__.py

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: fake_websites_detection
+Version: 0.0.1
+Author: bilal khan
+Author-email: bilalkhan154022@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
